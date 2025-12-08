@@ -117,7 +117,7 @@
     <img src="https://img.icons8.com/color/24/gmail--v1.png" width="20" alt="Gmail icon" /> 
     <a href="mailto:syedhassnainkazmi07@gmail.com"><strong>syedhassnainkazmi07@gmail.com</strong></a><br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn icon" /> 
-    <a href="https://linkedin.com/in/syedhassnainkazmi">linkedin.com/in/syedhassnainkazmi</a>
+    <a href="https://www.linkedin.com/in/syed-hassnain-kazmi/">linkedin.com/in/syed-hassnain-kazmi</a>
   </p>
 </div>
 
