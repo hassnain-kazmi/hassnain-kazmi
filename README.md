@@ -91,9 +91,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassnainkazmi&show_icons=true&theme=default" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassnainkazmi&layout=compact&langs_count=8&theme=default" height="160" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassnainkazmi&theme=default" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassnain-kazmi&show_icons=true&theme=default" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassnain-kazmi&layout=compact&langs_count=8&theme=default" height="160" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassnain-kazmi&theme=default" height="160" alt="GitHub Streak" />
 </div>
 
 ---
@@ -102,9 +102,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassnainkazmi/hassnainkazmi/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassnainkazmi/hassnainkazmi/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/hassnainkazmi/hassnainkazmi/output/github-snake.svg" alt="GitHub Contribution Snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassnain-kazmi/hassnain-kazmi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassnain-kazmi/hassnain-kazmi/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/hassnain-kazmi/hassnain-kazmi/output/github-snake.svg" alt="GitHub Contribution Snake animation" />
   </picture>
 </div>
 
