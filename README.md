@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Engineer. Builder. Problem-Solver.</strong><br/>
-  <em>I turn ideas into full-stack web experiences that are scalable, performant, and user-centered.</em>
+  <em>Building AI-powered full-stack systems that transform ideas into scalable, performant, and user-centered products.</em>
 </p>
 
 <p align="center">
