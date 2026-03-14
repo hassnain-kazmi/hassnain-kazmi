@@ -63,7 +63,6 @@
     <td>
       <img src="https://playwright.dev/img/playwright-logo.svg" width="30" title="Playwright"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30" title="Jest"/>
-      <img src="https://www.lambdatest.com/resources/images/logos/logo.svg" width="100" alt="LambdaTest logo" />
     </td>
   </tr>
   <tr>
@@ -80,8 +79,7 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" width="30" title="Sentry"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VSCode"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30" title="BitBucket"/>
     </td>
   </tr>
 </table>
