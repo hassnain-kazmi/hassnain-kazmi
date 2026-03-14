@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td><strong>Languages</strong></td>
+    <td><strong>Programming Languages</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
@@ -29,35 +29,48 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++ icon" />
     </td>
   </tr>
+
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" title="Redux"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" title="Material UI"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
+    <td><strong>Backend & Architecture</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" title="FastAPI"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" title="Express.js"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis"/>
       <img src="https://avatars.githubusercontent.com/u/2071510?s=200&v=4" width="30" title="Celery"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis"/>
     </td>
   </tr>
+
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" title="Redux"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS"/>
+      <img src="https://ui.shadcn.com/favicon.ico" width="30" title="shadcn/ui"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" title="Material UI"/>
+    </td>
+  </tr>
+
   <tr>
     <td><strong>Databases</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL icon" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure Cosmos DB"/>
     </td>
   </tr>
+
+  <tr>
+    <td><strong>AI & LLM Systems</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure OpenAI"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure AI Search"/>
+      <img src="https://avatars.githubusercontent.com/u/118392159?s=200&v=4" width="30" title="Ollama"/>
+    </td>
+  </tr>
+
   <tr>
     <td><strong>Testing</strong></td>
     <td>
@@ -65,21 +78,15 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30" title="Jest"/>
     </td>
   </tr>
+
   <tr>
     <td><strong>Cloud & DevOps</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" title="AWS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" title="AWS Lambda"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" title="CI/CD"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30" title="BitBucket"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30" title="Bitbucket"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub Actions"/>
     </td>
   </tr>
 </table>
