@@ -1,18 +1,18 @@
 <h1 align="center">Hey, I'm Hassnain 👋</h1>
 
 <p align="center">
-  <strong>Engineer. Builder. Problem-Solver.</strong><br/>
-  <em>Building AI-powered full-stack systems that transform ideas into scalable, performant, and user-centered products.</em>
+  <strong>Engineer. Builder. Systems Thinker.</strong><br/>
+  <em>Building AI-powered full-stack systems that turn ideas into scalable and reliable products.</em>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" alt="Coding gif">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180" alt="Coding gif">
 </p>
 
 🎓 **Currently pursuing a Master’s in Computer Science**  
-💼 **Working as a Full Stack Software Engineer (Working Student)**  
-⚙️ Building scalable, high-performance web apps  
-🧠 Passionate about how **AI/ML integrates into modern software engineering**  
+💻 **Working as a Full-Stack Software Engineer (Working Student)**  
+🤖 Interested in how **AI integrates into real-world software systems**  
+🛠️ Passionate about **scalable systems, clean architectures, and practical software engineering**  
 🚀 Open to **full-time Software Engineering roles**
 
 ---
@@ -20,78 +20,93 @@
 ## ⚙️ Tech Stack
 
 <table>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++ icon" />
-    </td>
-  </tr>
+<tr>
+<td><strong>Programming Languages</strong></td>
+<td>
 
-  <tr>
-    <td><strong>Backend & Architecture</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" title="FastAPI"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" title="Express.js"/>
-      <img src="https://avatars.githubusercontent.com/u/2071510?s=200&v=4" width="30" title="Celery"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis"/>
-    </td>
-  </tr>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" title="Redux"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS"/>
-      <img src="https://ui.shadcn.com/favicon.ico" width="30" title="shadcn/ui"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" title="Material UI"/>
-    </td>
-  </tr>
+</td>
+</tr>
 
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure Cosmos DB"/>
-    </td>
-  </tr>
+<tr>
+<td><strong>Backend & Architecture</strong></td>
+<td>
 
-  <tr>
-    <td><strong>AI & LLM Systems</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure OpenAI"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure AI Search"/>
-      <img src="https://avatars.githubusercontent.com/u/118392159?s=200&v=4" width="30" title="Ollama"/>
-    </td>
-  </tr>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-grey?style=for-the-badge)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-  <tr>
-    <td><strong>Testing</strong></td>
-    <td>
-      <img src="https://playwright.dev/img/playwright-logo.svg" width="30" title="Playwright"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30" title="Jest"/>
-    </td>
-  </tr>
+</td>
+</tr>
 
-  <tr>
-    <td><strong>Cloud & DevOps</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" title="AWS Lambda"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30" title="Bitbucket"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub Actions"/>
-    </td>
-  </tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge)
+![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>AI & LLM Systems</strong></td>
+<td>
+
+![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embedding-Models-grey?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Testing</strong></td>
+<td>
+
+![Playwright](https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Cloud & DevOps</strong></td>
+<td>
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</td>
+</tr>
 </table>
 
----
 
 ## 📊 GitHub Stats
 
