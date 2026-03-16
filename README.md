@@ -11,7 +11,7 @@
 
 🎓 **Currently pursuing a Master’s in Computer Science**  
 💻 **Working as a Full-Stack Software Engineer (Working Student)**  
-🤖 Interested in how **AI integrates into real-world software systems**  
+🤖 Interested in how **AI/ML integrates into real-world software systems**  
 🛠️ Passionate about **scalable systems, clean architectures, and practical software engineering**  
 🚀 Open to **full-time Software Engineering roles**
 
