@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180" alt="Coding gif">
 </p>
 
-🎓 **Currently pursuing a Master’s in Computer Science**  
+🎓 **Currently pursuing a Master’s in Computer Science at Frankfurt UAS**  
 💻 **Working as a Full-Stack Software Engineer (Working Student)**  
 🤖 Interested in how **AI/ML integrates into real-world software systems**  
 🛠️ Passionate about **scalable systems, clean architectures, and practical software engineering**  
