@@ -6,14 +6,37 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/syed-hassnain-kazmi/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:syedhassnainkazmi07@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassnain-kazmi&style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180" alt="Coding gif">
 </p>
 
-🎓 **Currently pursuing a Master’s in Computer Science at Frankfurt UAS**  
-💻 **Working as a Full-Stack Software Engineer (Working Student)**  
-🤖 Interested in how **AI/ML integrates into real-world software systems**  
-🛠️ Passionate about **scalable systems, clean architectures, and practical software engineering**  
-🚀 Open to **full-time Software Engineering roles**
+🎓 **Master’s in Computer Science at Frankfurt UAS**  
+💻 **Software Engineer (Working Student)**  
+🤖 Building **AI-powered systems (RAG, LLM integrations)**  
+🛠️ Focused on **scalable architectures & clean engineering**  
+🚀 Open to **full-time Software Engineer / AI Engineer roles**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassnain-kazmi&show_icons=true&theme=default" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassnain-kazmi&layout=compact&langs_count=8&theme=default" height="160" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassnain-kazmi&theme=default" height="160" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -107,15 +130,6 @@
 </tr>
 </table>
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassnain-kazmi&show_icons=true&theme=default" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassnain-kazmi&layout=compact&langs_count=8&theme=default" height="160" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassnain-kazmi&theme=default" height="160" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🐍 Contributions
@@ -126,19 +140,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassnain-kazmi/hassnain-kazmi/output/github-snake.svg" />
     <img src="https://raw.githubusercontent.com/hassnain-kazmi/hassnain-kazmi/output/github-snake.svg" alt="GitHub Contribution Snake animation" />
   </picture>
-</div>
-
----
-
-## 🧭 Reach Out
-
-<div align="center">
-  <p>
-    <img src="https://img.icons8.com/color/24/gmail--v1.png" width="20" alt="Gmail icon" /> 
-    <a href="mailto:syedhassnainkazmi07@gmail.com"><strong>syedhassnainkazmi07@gmail.com</strong></a><br/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn icon" /> 
-    <a href="https://www.linkedin.com/in/syed-hassnain-kazmi/">linkedin.com/in/syed-hassnain-kazmi</a>
-  </p>
 </div>
 
 ---
