@@ -22,8 +22,8 @@
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180" alt="Coding gif">
 </p>
 
-🎓 **Master’s in Computer Science at Frankfurt UAS**  
-💻 **Software Engineer (Working Student)**  
+🎓 **Currently pursuing a Master’s in Computer Science at Frankfurt UAS**  
+💻 **Working as a Software Engineer (Working Student)**  
 🤖 Building **AI-powered systems (RAG, LLM integrations)**  
 🛠️ Focused on **scalable architectures & clean engineering**  
 🚀 Open to **full-time Software Engineer / AI Engineer roles**
