@@ -84,10 +84,10 @@
 <td><strong>AI & LLM Systems</strong></td>
 <td>
 
-<img src="https://img.shields.io/badge/RAG-Systems-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-pipelines-0A66C2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure"/>
 <img src="https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embedding-Models-555555?style=flat-square"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
 
 </td>
