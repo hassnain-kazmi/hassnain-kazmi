@@ -42,7 +42,7 @@
 </tr>
 
 <tr>
-<td><strong>Backend & Systems</strong></td>
+<td><strong>Backend & Architecture</strong></td>
 <td>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -81,7 +81,7 @@
 </tr>
 
 <tr>
-<td><strong>AI / LLM Systems</strong></td>
+<td><strong>AI & LLM Systems</strong></td>
 <td>
 
 <img src="https://img.shields.io/badge/RAG-Systems-0A66C2?style=flat-square"/>
