@@ -20,7 +20,7 @@
 </p>
 
 - **Currently pursuing a Master’s in Computer Science at Frankfurt UAS**  
-- **Working as a Software Engineer (Working Student)**  
+- **Working as a Full Stack Software Engineer (Working Student)**  
 - Building **AI-powered systems (RAG, LLM integrations)**  
 - Focused on **scalable architectures & clean engineering**  
 - Open to **full-time Software Engineer / AI Engineer roles**
